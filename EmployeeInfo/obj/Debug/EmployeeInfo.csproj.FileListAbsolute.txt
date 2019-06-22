@@ -25,3 +25,14 @@ E:\.NET Web App(Batch-4)\13-05-2015\EmployeeInfo\EmployeeInfo\obj\Debug\Employee
 E:\.NET Web App(Batch-4)\13-05-2015\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.EmployeeInfoUI.resources
 E:\.NET Web App(Batch-4)\13-05-2015\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.Properties.Resources.resources
 E:\.NET Web App(Batch-4)\13-05-2015\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csproj.GenerateResource.Cache
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\bin\Debug\EmployeeInfo.exe.config
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\bin\Debug\EmployeeInfo.exe
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\bin\Debug\EmployeeInfo.pdb
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\obj\Debug\EmployeeInfo.EmployeeInfoUI.resources
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\obj\Debug\EmployeeInfo.Properties.Resources.resources
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\obj\Debug\EmployeeInfo.csproj.GenerateResource.Cache
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\obj\Debug\EmployeeInfo.exe
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\obj\Debug\EmployeeInfo.pdb
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\bin\Debug\EncryptDecryptClassLibrary.dll
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\bin\Debug\EncryptDecryptClassLibrary.pdb
+E:\Projects\Test Project\EmployeeInfo\EmployeeInfoAppUpdated\EmployeeInfo\obj\Debug\EmployeeInfo.csprojResolveAssemblyReference.cache

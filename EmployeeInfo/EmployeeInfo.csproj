@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EncryptDecryptClassLibrary">
+      <HintPath>..\..\..\..\EncryptDecrypt-20180718T045844Z-001\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecryptClassLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -45,16 +48,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="EmployeeInfoUI.cs">
+    <Compile Include="AppVariable.cs" />
+    <Compile Include="BLL\EmployeeBll.cs" />
+    <Compile Include="DAL\DAO\Employee.cs" />
+    <Compile Include="DAL\Gateway\BaseGateway.cs" />
+    <Compile Include="DAL\Gateway\EmployeeGateway.cs" />
+    <Compile Include="Helper\Helper.cs" />
+    <Compile Include="UI\EmployeeInfoUI.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EmployeeInfoUI.Designer.cs">
+    <Compile Include="UI\EmployeeInfoUI.Designer.cs">
       <DependentUpon>EmployeeInfoUI.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="EmployeeInfoUI.resx">
+    <EmbeddedResource Include="UI\EmployeeInfoUI.resx">
       <DependentUpon>EmployeeInfoUI.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -79,6 +87,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
