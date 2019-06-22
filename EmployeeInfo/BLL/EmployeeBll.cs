@@ -20,11 +20,11 @@ namespace EmployeeInfo.BLL
             {
                 return "This Email Already In System!!!";
             }
-            return _aGateway.SaveEmployee(aEmployee) ? "ok" : "Employee Information Not Saved";
+            return _aGateway.SaveEmployee(aEmployee) ? "Employee Saved" : "Employee Information Not Saved";
         }
         public string UpdatePatientDetails(Employee aEmployee)
         {
-            return _aGateway.UpdateEmployee(aEmployee) ? "ok" : "Employee Information Not Updated";
+            return _aGateway.UpdateEmployee(aEmployee) ? "Employee Updated" : "Employee Information Not Updated";
         }
 
         public bool DeleteEmployeeById(int employeeId)
